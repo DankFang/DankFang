@@ -1,5 +1,7 @@
 ## 💬 Abount DankFang 👋
-Hi, I'm a Golang Backend Developer and Solidity Smart Contract Engineer.
+Hi, my name is DankFang, and I am from Chengdu, Sichuan Province, China.
+I am a Solidity Smart Contract Engineer and a Golang Backend Developer.
+I graduated from Chengdu University of Information Technology with a degree in Blockchain Engineering and am now focused on Web3 development.
 
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&i=js,ts,html,css,nodejs,git,github,go,graphql,linux,md,solidity&perline=3" />
