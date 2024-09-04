@@ -6,7 +6,7 @@
   I am a Solidity Smart Contract Engineer and a Golang Backend Developer.
 </p>
 <p>
-  I graduated from Chengdu University of Information Technology with a degree in Blockchain Engineering and am now focused on Web3 development.
+  I am focused on the development of Web3 and am also learning many new things.
 </p>
 
 ### 🌱 my skills
@@ -28,8 +28,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DankFang&margin-w=5)](https://github.com/DankFang/)
-
-![暗色](https://raw.githubusercontent.com/DankFang/DankFang/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+<!-- ![暗色](https://raw.githubusercontent.com/DankFang/DankFang/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only) -->
 ![亮色](https://raw.githubusercontent.com/DankFang/DankFang/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DankFang&theme=gruvbox)
