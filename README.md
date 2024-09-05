@@ -29,7 +29,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DankFang&margin-w=5)](https://github.com/DankFang/)
 <!-- ![暗色](https://raw.githubusercontent.com/DankFang/DankFang/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only) -->
-![亮色](https://raw.githubusercontent.com/DankFang/DankFang/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<!--![亮色](https://raw.githubusercontent.com/DankFang/DankFang/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
+![亮色](https://raw.githubusercontent.com/DankFang/DankFang/output/github-contribution-grid-snake.svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DankFang&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DankFang&theme=gruvbox)
